@@ -1,0 +1,14 @@
+{
+  "id": "franz-google-team-drive",
+  "name": "Google Team Drive",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/harrytran998/franz-google-team-drive.git",
+  "author": "Harry Tran <nhattq.coding@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://drive.google.com/drive/u/1/folders/0ADKwNGM6UDfBUk9PVA",
+    "hasNotificationSound": "true",
+    "hasIndirectMessages": "true"
+  }
+}
